@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is my firts test to creat my own self-introduction
 
 <!--
 **DaJoungKim/DajoungKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
