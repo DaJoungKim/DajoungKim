@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is my firts test to creat my own self-introduction
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=안드로이드&logoColor=white"/>
 <!--
 **DaJoungKim/DajoungKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
